@@ -1,0 +1,59 @@
+Attached Element Context from Integrated Browser
+
+Element: img#kaya-photo
+
+URL: http://127.0.0.1:3000/exercises/dis04.html?vscode-livepreview=true
+
+HTML Path: img#kaya-photo
+
+Outer HTML:
+```html
+<img id="kaya-photo" src="images/kaya-halloween.jpg" alt="Kaya the corgi in her Halloween costume">
+```
+
+Dimensions:
+- top: 17px
+- left: 184px
+- width: 324px
+- height: 116px
+
+CSS:
+```css
+#kaya-photo { width: 50%;
+    max-width: 300px;
+    background: #ffffff;
+    padding: 12px 12px 44px;
+    border-radius: 6px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+    transform: rotate(-3deg);
+    margin-top: 40px; }
+
+/* Inherited */
+body { font-family: "Trebuchet MS", sans-serif; color: #f5f0ff; text-align: center }
+
+/* Resolved values */
+padding: 12px 12px 44px;
+border-radius: 6px;
+background-attachment: scroll;
+background-clip: border-box;
+background-color: rgb(255, 255, 255);
+background-image: none;
+background-origin: padding-box;
+background-position-x: 0%;
+background-position-y: 0%;
+background-repeat: repeat;
+background-size: auto;
+box-shadow: rgba(0, 0, 0, 0.4) 0px 8px 20px 0px;
+color: rgb(245, 240, 255);
+display: inline;
+font-family: "Trebuchet MS", sans-serif;
+height: 37px;
+margin-top: 40px;
+max-width: 300px;
+overflow-clip-margin: content-box /*UA*/;
+overflow-x: clip /*UA*/;
+overflow-y: clip /*UA*/;
+text-align: center;
+transform: matrix(0.99863, -0.052336, 0.052336, 0.99863, 0, 0);
+width: 300px;
+```

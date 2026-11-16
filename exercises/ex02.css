@@ -1,0 +1,72 @@
+HTML {background-color: peachpuff:}
+
+A {color: lawngreen}
+A:hover {color:aqua; background: rgb(19,32,113)}
+
+UL {
+    color:red;
+}
+
+h1 {
+    background-color: rgb(19, 32, 113);
+    color:rgb(82,172,172);
+    font-weight: normal;
+}
+
+P {
+    background-color:cornsilk;
+    padding: 20 px;
+    margin: 50 px;
+
+
+
+
+IMG{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+
+}
+
+
+
+
+
+#beyonce { width: 70%: }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.highlight_01 {background-color: coral;}
+ 
+.highlight_01 strong {background-color:rgb (251, 177, 202);}
+
+.highlight_02 {background-color:yellowgreen;}
+
+
+
+#main {
+    background-color:azure;
+    padding: 30px;
+    margin: 100px;
+    box-shadow: #FFF 0 -1px 4px, #ff0 0
+    -2px 10px, #ff8000 0 -10px 20px, red 0
+    -18
+}
